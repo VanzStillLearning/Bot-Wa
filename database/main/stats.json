@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 92,
+  "commandsExecuted": 103,
   "command_reactsw": 1,
   "command_self": 1,
   "command_ping": 2,
@@ -41,10 +41,17 @@
   "command_testspeed": 1,
   "command_ganticode": 3,
   "command_internetspeed": 2,
-  "command_is": 4,
+  "command_is": 7,
   "command_p": 1,
   "commandErrors": 6,
   "command_p2": 1,
   "command_tt": 2,
-  "dailyResets": 1
+  "dailyResets": 1,
+  "command_nsfw": 1,
+  "command_blowjob": 1,
+  "command_gangbang": 1,
+  "command_bdsm": 2,
+  "command_ass": 1,
+  "command_cum": 1,
+  "command_trap": 1
 }
