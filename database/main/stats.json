@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 86,
+  "commandsExecuted": 92,
   "command_reactsw": 1,
   "command_self": 1,
   "command_ping": 2,
@@ -29,7 +29,7 @@
   "command_bratanime": 2,
   "command_sfiledl": 2,
   "command_spotifydl": 1,
-  "command_menu": 2,
+  "command_menu": 4,
   "command_autotyping": 1,
   "command_autoread": 1,
   "command_anticall": 1,
@@ -37,13 +37,14 @@
   "command_filmget": 1,
   "command_terabox": 4,
   "command_autoreadsw": 1,
-  "command_play": 1,
+  "command_play": 3,
   "command_testspeed": 1,
   "command_ganticode": 3,
   "command_internetspeed": 2,
-  "command_is": 2,
+  "command_is": 4,
   "command_p": 1,
   "commandErrors": 6,
   "command_p2": 1,
-  "command_tt": 2
+  "command_tt": 2,
+  "dailyResets": 1
 }
