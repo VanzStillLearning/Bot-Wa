@@ -1,1 +1,30 @@
-{}
+{
+  "62895385533890": {
+    "name": "Van",
+    "lastSeen": "2026-07-19T12:09:03.594Z",
+    "jid": "62895385533890",
+    "number": "62895385533890",
+    "energi": 99999,
+    "isPremium": false,
+    "isBanned": false,
+    "exp": 3615,
+    "level": 1,
+    "koin": 0,
+    "saldo": 0,
+    "unlockedFeatures": [],
+    "registeredAt": null,
+    "lastRegisteredAt": null,
+    "registrationCount": 0,
+    "hasClaimedRegisterReward": false,
+    "unregisteredAt": null,
+    "cooldowns": {},
+    "clanId": null,
+    "isRegistered": false,
+    "regName": null,
+    "regAge": null,
+    "regGender": null,
+    "rpg": {},
+    "inventory": {},
+    "access": []
+  }
+}

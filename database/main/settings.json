@@ -16,7 +16,7 @@
   "onlyGc": false,
   "onlyPc": false,
   "giveaways": {},
-  "botMode": "public",
+  "botMode": "self",
   "audioMenu": true,
   "transactionSessions": {},
   "premiumUsers": [],
@@ -41,7 +41,38 @@
   "panelCreateLastUsed": 1775377733441,
   "autoJoinGc": false,
   "autoSholat": false,
-  "errorLog": [],
+  "errorLog": [
+    {
+      "cmd": "unknown",
+      "err": "Cannot use 'in' operator to search for 'stream' in import { getCaseCount, getCasesByCategory } from \"../../case/ourin.js\";\nimport {\n  prepareWAMessageMedia,\n  generateWAMessageFromContent,\n  proto,\n} ",
+      "at": 1784459284067
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot use 'in' operator to search for 'stream' in import * as botmodePlugin from \"../group/botmode.js\";\nimport { generateWAMessageFromContent, prepareWAMessageMedia, proto } from \"ourin\";\nimport _sha",
+      "at": 1784459268392
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot use 'in' operator to search for 'stream' in import { getCaseCount, getCasesByCategory } from \"../../case/ourin.js\";\nimport {\n  prepareWAMessageMedia,\n  generateWAMessageFromContent,\n  proto,\n} ",
+      "at": 1784459257441
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot use 'in' operator to search for 'stream' in import { createCanvas } from \"@napi-rs/canvas\"\nimport { performance } from \"perf_hooks\"\nimport os from \"os\"\nimport config from \"../../config.js\"\nimpo",
+      "at": 1784459237694
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot use 'in' operator to search for 'stream' in import { createCanvas } from \"@napi-rs/canvas\"\nimport { performance } from \"perf_hooks\"\nimport os from \"os\"\nimport config from \"../../config.js\"\nimpo",
+      "at": 1784457853613
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot use 'in' operator to search for 'stream' in import { createCanvas } from \"@napi-rs/canvas\"\nimport { performance } from \"perf_hooks\"\nimport os from \"os\"\nimport config from \"../../config.js\"\nimpo",
+      "at": 1784457817578
+    }
+  ],
   "jpmBlacklist": [],
   "bannedUsers": [],
   "allmenuVariant": 6,
@@ -52,10 +83,10 @@
   "storeTransactions": {},
   "storeLists": [],
   "autoReadSW": {
-    "enabled": true
+    "enabled": false
   },
   "autoReactSW": {
-    "enabled": true,
+    "enabled": false,
     "emoji": "🔥"
   },
   "customPaymentText": "",
@@ -66,7 +97,164 @@
   "ownerNames": {},
   "publicGroups": [],
   "autoRead": false,
-  "contacts": {},
+  "contacts": {
+    "62882005686310@s.whatsapp.net": {
+      "jid": "62882005686310@s.whatsapp.net",
+      "name": "https://ẉ.Fikzz"
+    },
+    "6289530071590@s.whatsapp.net": {
+      "jid": "6289530071590@s.whatsapp.net",
+      "name": "Raynold kazama Lʏʀɪᴄ"
+    },
+    "628984335004@s.whatsapp.net": {
+      "jid": "628984335004@s.whatsapp.net",
+      "name": "apa"
+    },
+    "6281244412260@s.whatsapp.net": {
+      "jid": "6281244412260@s.whatsapp.net",
+      "name": "irwan"
+    },
+    "6281298287600@s.whatsapp.net": {
+      "jid": "6281298287600@s.whatsapp.net",
+      "name": "Zal"
+    },
+    "6285188791564@s.whatsapp.net": {
+      "jid": "6285188791564@s.whatsapp.net",
+      "name": "⁨https://ẉ.Rizz⁩⁩⁩⁩"
+    },
+    "6287875512153@s.whatsapp.net": {
+      "jid": "6287875512153@s.whatsapp.net",
+      "name": "𝙅𝙖𝙠𝙖 𝙎𝙪𝙠𝙖𝙢𝙞𝙚𝙖𝙮𝙖𝙢"
+    },
+    "6285649687656@s.whatsapp.net": {
+      "jid": "6285649687656@s.whatsapp.net",
+      "name": "you good, i know𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭"
+    },
+    "6285706606594@s.whatsapp.net": {
+      "jid": "6285706606594@s.whatsapp.net",
+      "name": "Chisanahana"
+    },
+    "6289526615217@s.whatsapp.net": {
+      "jid": "6289526615217@s.whatsapp.net",
+      "name": "keniee"
+    },
+    "6281522552994@s.whatsapp.net": {
+      "jid": "6281522552994@s.whatsapp.net",
+      "name": "Jeselynn"
+    },
+    "6285607588713@s.whatsapp.net": {
+      "jid": "6285607588713@s.whatsapp.net",
+      "name": "Artoria"
+    },
+    "972569101540@s.whatsapp.net": {
+      "jid": "972569101540@s.whatsapp.net",
+      "name": "Chisanahana II"
+    },
+    "6281882892877@s.whatsapp.net": {
+      "jid": "6281882892877@s.whatsapp.net",
+      "name": "Senz"
+    },
+    "62895429174872@s.whatsapp.net": {
+      "jid": "62895429174872@s.whatsapp.net",
+      "name": "k \nfor\nkarisa\nkyuuryn | api.kyzzz.eu.cc"
+    },
+    "12468503760@s.whatsapp.net": {
+      "jid": "12468503760@s.whatsapp.net",
+      "name": "Apocalypse"
+    },
+    "6282245409729@s.whatsapp.net": {
+      "jid": "6282245409729@s.whatsapp.net",
+      "name": "santana"
+    },
+    "6282324624080@s.whatsapp.net": {
+      "jid": "6282324624080@s.whatsapp.net",
+      "name": "Nesa Okyy"
+    },
+    "6285378997479@s.whatsapp.net": {
+      "jid": "6285378997479@s.whatsapp.net",
+      "name": "RennZSync"
+    },
+    "6281946511717@s.whatsapp.net": {
+      "jid": "6281946511717@s.whatsapp.net",
+      "name": "𝐋𝐘𝐍𝐍𝐀"
+    },
+    "6289601689596@s.whatsapp.net": {
+      "jid": "6289601689596@s.whatsapp.net",
+      "name": "const name = \"_\""
+    },
+    "6289691375967@s.whatsapp.net": {
+      "jid": "6289691375967@s.whatsapp.net",
+      "name": "we are cio udundev"
+    },
+    "6285643909064@s.whatsapp.net": {
+      "jid": "6285643909064@s.whatsapp.net",
+      "name": "Rιԃȥ suka orng satset"
+    },
+    "6285651139109@s.whatsapp.net": {
+      "jid": "6285651139109@s.whatsapp.net",
+      "name": "Aynann"
+    },
+    "6285711170694@s.whatsapp.net": {
+      "jid": "6285711170694@s.whatsapp.net",
+      "name": "radippiupiu"
+    },
+    "6288212949095@s.whatsapp.net": {
+      "jid": "6288212949095@s.whatsapp.net",
+      "name": "idk"
+    },
+    "6282123886154@s.whatsapp.net": {
+      "jid": "6282123886154@s.whatsapp.net",
+      "name": "zz"
+    },
+    "79271414009@s.whatsapp.net": {
+      "jid": "79271414009@s.whatsapp.net",
+      "name": "ᴍʀ.x"
+    },
+    "269505490075801@s.whatsapp.net": {
+      "jid": "269505490075801@s.whatsapp.net",
+      "name": "YánnEtanol"
+    },
+    "6285172443303@s.whatsapp.net": {
+      "jid": "6285172443303@s.whatsapp.net",
+      "name": "I'm Ares"
+    },
+    "62895320633242@s.whatsapp.net": {
+      "jid": "62895320633242@s.whatsapp.net",
+      "name": "d"
+    },
+    "601121487452@s.whatsapp.net": {
+      "jid": "601121487452@s.whatsapp.net",
+      "name": "Paduka QAYYX67"
+    },
+    "6285141149511@s.whatsapp.net": {
+      "jid": "6285141149511@s.whatsapp.net",
+      "name": "Nanang Sang Programmer"
+    },
+    "6285789512868@s.whatsapp.net": {
+      "jid": "6285789512868@s.whatsapp.net",
+      "name": "on dah"
+    },
+    "6285708660353@s.whatsapp.net": {
+      "jid": "6285708660353@s.whatsapp.net",
+      "name": "𝗛𝗮𝗺𝘇𝘇𝗠𝗮𝗿𝗸𝗲𝘁"
+    },
+    "6281928403904@s.whatsapp.net": {
+      "jid": "6281928403904@s.whatsapp.net",
+      "name": "AzmiStecu"
+    },
+    "6283191503635@s.whatsapp.net": {
+      "jid": "6283191503635@s.whatsapp.net",
+      "name": "sanzzLʏʀɪᴄ | 𝙕𝙑𝙁 | ⁷⁷⁷"
+    },
+    "6287828828686@s.whatsapp.net": {
+      "jid": "6287828828686@s.whatsapp.net",
+      "name": "Arya"
+    },
+    "6283144828277@s.whatsapp.net": {
+      "jid": "6283144828277@s.whatsapp.net",
+      "name": "hyuokk"
+    }
+  },
   "notiflimit": false,
   "pgTopups": {},
   "pgPayments": {},
@@ -76,5 +264,6 @@
   "srtEnabled": true,
   "autobio_text": "",
   "autobio_status": false,
-  "capprem": {}
+  "capprem": {},
+  "autoTyping": false
 }
