@@ -2,13 +2,13 @@
   "120363069747521380@g.us": {
     "chatStats": {
       "62882005686310@s.whatsapp.net": {
-        "count": 36,
-        "lastChat": 1784476649352,
+        "count": 37,
+        "lastChat": 1784500607535,
         "name": "https://ẉ.Fikzz"
       },
       "6289530071590@s.whatsapp.net": {
-        "count": 2,
-        "lastChat": 1784447955992,
+        "count": 3,
+        "lastChat": 1784506243300,
         "name": "Raynold kazama Lʏʀɪᴄ"
       },
       "120363069747521380@g.us": {
@@ -42,8 +42,8 @@
         "name": "𝙅𝙖𝙠𝙖 𝙎𝙪𝙠𝙖𝙢𝙞𝙚𝙖𝙮𝙖𝙢"
       },
       "6281882892877@s.whatsapp.net": {
-        "count": 6,
-        "lastChat": 1784483991367,
+        "count": 7,
+        "lastChat": 1784502037690,
         "name": "Senz"
       },
       "6285643909064@s.whatsapp.net": {
@@ -52,8 +52,8 @@
         "name": "Rιԃȥ suka orng satset"
       },
       "6285651139109@s.whatsapp.net": {
-        "count": 4,
-        "lastChat": 1784451922824,
+        "count": 6,
+        "lastChat": 1784517371967,
         "name": "Aynann"
       },
       "6282324624080@s.whatsapp.net": {
@@ -67,8 +67,8 @@
         "name": "radippiupiu"
       },
       "6285607588713@s.whatsapp.net": {
-        "count": 5,
-        "lastChat": 1784452805901,
+        "count": 7,
+        "lastChat": 1784513373493,
         "name": "Artoria"
       },
       "79271414009@s.whatsapp.net": {
@@ -82,8 +82,8 @@
         "name": "YánnEtanol"
       },
       "6289691375967@s.whatsapp.net": {
-        "count": 14,
-        "lastChat": 1784477613147,
+        "count": 15,
+        "lastChat": 1784506340931,
         "name": "we are cio udundev"
       },
       "6285172443303@s.whatsapp.net": {
@@ -188,8 +188,8 @@
   "120363423370531772@g.us": {
     "chatStats": {
       "6285649687656@s.whatsapp.net": {
-        "count": 30,
-        "lastChat": 1784474178840,
+        "count": 31,
+        "lastChat": 1784516313652,
         "name": "you good, i know𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭"
       },
       "6285706606594@s.whatsapp.net": {
@@ -228,13 +228,13 @@
         "name": "k \nfor\nkarisa\nkyuuryn | api.kyzzz.eu.cc"
       },
       "62882005686310@s.whatsapp.net": {
-        "count": 76,
-        "lastChat": 1784474103246,
+        "count": 78,
+        "lastChat": 1784515872641,
         "name": "https://ẉ.Fikzz"
       },
       "12468503760@s.whatsapp.net": {
-        "count": 101,
-        "lastChat": 1784496902901,
+        "count": 110,
+        "lastChat": 1784515877539,
         "name": "Apocalypse"
       },
       "6282245409729@s.whatsapp.net": {
@@ -437,8 +437,8 @@
   "120363410090468981@g.us": {
     "chatStats": {
       "6287828828686@s.whatsapp.net": {
-        "count": 1,
-        "lastChat": 1784460298757,
+        "count": 2,
+        "lastChat": 1784515839756,
         "name": "Arya"
       }
     },
@@ -460,6 +460,20 @@
     "goodbye": false,
     "leave": false,
     "jid": "120363329328877571@g.us",
+    "name": "Unknown Group",
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "game": true,
+    "rpg": true,
+    "warnings": [],
+    "chat": {}
+  },
+  "120363427100397656@g.us": {
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363427100397656@g.us",
     "name": "Unknown Group",
     "antilink": false,
     "antitoxic": false,
