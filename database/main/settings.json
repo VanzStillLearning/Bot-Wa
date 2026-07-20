@@ -27,7 +27,7 @@
   "publicAdmin": false,
   "_lastEnergiDefault": 99999,
   "_lastEnergiPremium": 99999999,
-  "lastLimitReset": "2026-07-19T17:00:00.007Z",
+  "lastLimitReset": "2026-07-20T17:00:00.013Z",
   "onlyThisGroup": null,
   "autoJpm": {
     "enabled": false,
@@ -389,6 +389,10 @@
     "6288245372753@s.whatsapp.net": {
       "jid": "6288245372753@s.whatsapp.net",
       "name": "Apocalypse"
+    },
+    "6282343255439@s.whatsapp.net": {
+      "jid": "6282343255439@s.whatsapp.net",
+      "name": "Order ke owner Tats store"
     }
   },
   "notiflimit": false,
