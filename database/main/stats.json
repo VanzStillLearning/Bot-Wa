@@ -1,8 +1,8 @@
 {
-  "commandsExecuted": 109,
+  "commandsExecuted": 120,
   "command_reactsw": 1,
   "command_self": 1,
-  "command_ping": 2,
+  "command_ping": 3,
   "command_ccdl": 1,
   "command_brat": 2,
   "command_bratgojo": 1,
@@ -16,9 +16,9 @@
   "command_ttsearch": 2,
   "command_tomp3": 1,
   "command_toaudio": 2,
-  "command_getplugin": 5,
-  "command_addplugin": 5,
-  "command_run": 3,
+  "command_getplugin": 8,
+  "command_addplugin": 6,
+  "command_run": 4,
   "command_>": 1,
   "command_ttplay": 3,
   "command_ganti-asset": 3,
@@ -43,7 +43,7 @@
   "command_internetspeed": 2,
   "command_is": 10,
   "command_p": 1,
-  "commandErrors": 6,
+  "commandErrors": 7,
   "command_p2": 1,
   "command_tt": 2,
   "dailyResets": 2,
@@ -53,5 +53,9 @@
   "command_bdsm": 2,
   "command_ass": 1,
   "command_cum": 1,
-  "command_trap": 1
+  "command_trap": 1,
+  "command_carifitur": 2,
+  "command_smooth": 1,
+  "command_restart": 1,
+  "command_delplugin": 1
 }

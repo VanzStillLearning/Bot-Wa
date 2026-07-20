@@ -44,6 +44,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1784587614903
+    },
+    {
+      "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in import { getCaseCount, getCasesByCategory } from \"../../case/ourin.js\";\nimport {\n  prepareWAMessageMedia,\n  generateWAMessageFromContent,\n  proto,\n} ",
       "at": 1784459284067
     },
