@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 105,
+  "commandsExecuted": 106,
   "command_reactsw": 1,
   "command_self": 1,
   "command_ping": 2,
@@ -41,7 +41,7 @@
   "command_testspeed": 1,
   "command_ganticode": 3,
   "command_internetspeed": 2,
-  "command_is": 9,
+  "command_is": 10,
   "command_p": 1,
   "commandErrors": 6,
   "command_p2": 1,
