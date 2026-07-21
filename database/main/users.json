@@ -1,13 +1,13 @@
 {
   "62895385533890": {
     "name": "Van",
-    "lastSeen": "2026-07-21T05:01:09.761Z",
+    "lastSeen": "2026-07-21T09:58:32.764Z",
     "jid": "62895385533890",
     "number": "62895385533890",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9120,
+    "exp": 10155,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -23,7 +23,15 @@
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {},
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
     "inventory": {},
     "access": []
   }
