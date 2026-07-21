@@ -45,6 +45,21 @@
     {
       "cmd": "unknown",
       "err": "Connection Closed",
+      "at": 1784591663421
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1784591590277
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1784591536303
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
       "at": 1784587614903
     },
     {
