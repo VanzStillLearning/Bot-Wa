@@ -27,7 +27,7 @@
   "publicAdmin": false,
   "_lastEnergiDefault": 99999,
   "_lastEnergiPremium": 99999999,
-  "lastLimitReset": "2026-07-20T17:00:00.013Z",
+  "lastLimitReset": "2026-07-21T17:00:00.014Z",
   "onlyThisGroup": null,
   "autoJpm": {
     "enabled": false,
@@ -493,6 +493,18 @@
     "6285842085682@s.whatsapp.net": {
       "jid": "6285842085682@s.whatsapp.net",
       "name": "Abecause always"
+    },
+    "6289602624291@s.whatsapp.net": {
+      "jid": "6289602624291@s.whatsapp.net",
+      "name": "~~~"
+    },
+    "6285187736007@s.whatsapp.net": {
+      "jid": "6285187736007@s.whatsapp.net",
+      "name": "y~owner bot alif"
+    },
+    "6285155205367@s.whatsapp.net": {
+      "jid": "6285155205367@s.whatsapp.net",
+      "name": "o"
     }
   },
   "notiflimit": false,
