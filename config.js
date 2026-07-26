@@ -9,12 +9,12 @@ const config = {
   },
 
   owner: {
-    name: "Zann", // Nama owner
+    name: "Van", // Nama owner
     number: ["62895385533890"], // Format: 628xxx (tanpa + atau 0)
   },
 
   session: {
-    pairingNumber: "62895385533890", // Nomor WA yang akan di-pair, ini penting
+    pairingNumber: "6287873549472", // Nomor WA yang akan di-pair, ini penting
     usePairingCode: true, // true = Pairing Code, false = QR Code
   },
 
