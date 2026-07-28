@@ -44,6 +44,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Cannot read properties of undefined (reading 'id')",
+      "at": 1785219084621
+    },
+    {
+      "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1784591663421
     },
@@ -601,6 +606,10 @@
     "6289523276560@s.whatsapp.net": {
       "jid": "6289523276560@s.whatsapp.net",
       "name": "war • 𝓥𝓮𝓵‌𝓲‌𝔁‌𝓲‌𝓪 ৎ"
+    },
+    "62895385533890@s.whatsapp.net": {
+      "jid": "62895385533890@s.whatsapp.net",
+      "name": "Van"
     }
   },
   "notiflimit": false,

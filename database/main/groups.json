@@ -1021,5 +1021,31 @@
     "rpg": true,
     "warnings": [],
     "chat": {}
+  },
+  "120363411692157779@g.us": {
+    "chatStats": {
+      "6287873549472@s.whatsapp.net": {
+        "count": 9,
+        "lastChat": 1785220381848,
+        "name": "Van Store"
+      },
+      "62895385533890@s.whatsapp.net": {
+        "count": 44,
+        "lastChat": 1785231998690,
+        "name": "Van"
+      }
+    },
+    "jid": "120363411692157779@g.us",
+    "name": "Bot Wa",
+    "welcome": false,
+    "leave": false,
+    "goodbye": false,
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "game": true,
+    "rpg": true,
+    "warnings": [],
+    "chat": {}
   }
 }
