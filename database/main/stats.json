@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 233,
+  "commandsExecuted": 250,
   "command_reactsw": 2,
   "command_self": 2,
   "command_ping": 7,
@@ -13,7 +13,7 @@
   "command_spotify": 3,
   "command_spdl": 4,
   "command_gpt5": 5,
-  "command_ttsearch": 3,
+  "command_ttsearch": 4,
   "command_tomp3": 1,
   "command_toaudio": 2,
   "command_getplugin": 14,
@@ -31,7 +31,7 @@
   "command_spotifydl": 1,
   "command_menu": 6,
   "command_autotyping": 1,
-  "command_autoread": 1,
+  "command_autoread": 2,
   "command_anticall": 1,
   "command_film": 2,
   "command_filmget": 1,
@@ -41,11 +41,11 @@
   "command_testspeed": 1,
   "command_ganticode": 6,
   "command_internetspeed": 2,
-  "command_is": 12,
+  "command_is": 13,
   "command_p": 1,
   "commandErrors": 10,
   "command_p2": 1,
-  "command_tt": 4,
+  "command_tt": 6,
   "dailyResets": 4,
   "command_nsfw": 1,
   "command_blowjob": 1,
@@ -71,6 +71,7 @@
   "command_musicmaker": 1,
   "command_ai": 5,
   "command_claudehaiku": 4,
-  "command_gantiplugin": 3,
-  "command_haiku": 13
+  "command_gantiplugin": 5,
+  "command_haiku": 22,
+  "command_clearchat": 1
 }

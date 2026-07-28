@@ -121,7 +121,7 @@
   "selfGroups": [],
   "ownerNames": {},
   "publicGroups": [],
-  "autoRead": false,
+  "autoRead": true,
   "contacts": {
     "62882005686310@s.whatsapp.net": {
       "jid": "62882005686310@s.whatsapp.net",
