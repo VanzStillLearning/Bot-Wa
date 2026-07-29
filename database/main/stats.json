@@ -1,8 +1,8 @@
 {
-  "commandsExecuted": 253,
+  "commandsExecuted": 259,
   "command_reactsw": 2,
   "command_self": 2,
-  "command_ping": 8,
+  "command_ping": 9,
   "command_ccdl": 1,
   "command_brat": 3,
   "command_bratgojo": 1,
@@ -29,7 +29,7 @@
   "command_bratanime": 3,
   "command_sfiledl": 2,
   "command_spotifydl": 1,
-  "command_menu": 6,
+  "command_menu": 7,
   "command_autotyping": 1,
   "command_autoread": 2,
   "command_anticall": 1,
@@ -73,5 +73,6 @@
   "command_claudehaiku": 4,
   "command_gantiplugin": 5,
   "command_haiku": 22,
-  "command_clearchat": 1
+  "command_clearchat": 1,
+  "command_pins": 4
 }
