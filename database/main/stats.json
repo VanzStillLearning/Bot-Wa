@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 273,
+  "commandsExecuted": 277,
   "command_reactsw": 2,
   "command_self": 2,
   "command_ping": 12,
@@ -71,8 +71,8 @@
   "command_musicmaker": 2,
   "command_ai": 5,
   "command_claudehaiku": 4,
-  "command_gantiplugin": 5,
-  "command_haiku": 22,
+  "command_gantiplugin": 6,
+  "command_haiku": 25,
   "command_clearchat": 1,
   "command_pins": 4,
   "command_npm": 1
