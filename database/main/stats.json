@@ -1,8 +1,8 @@
 {
-  "commandsExecuted": 293,
+  "commandsExecuted": 298,
   "command_reactsw": 2,
   "command_self": 2,
-  "command_ping": 15,
+  "command_ping": 16,
   "command_ccdl": 1,
   "command_brat": 3,
   "command_bratgojo": 1,
@@ -59,7 +59,7 @@
   "command_restart": 3,
   "command_delplugin": 2,
   "command_enhancevid": 4,
-  "command_wink": 3,
+  "command_wink": 5,
   "command_lokalhd": 1,
   "command_ffhd": 21,
   "command_$": 1,
@@ -76,5 +76,6 @@
   "command_clearchat": 1,
   "command_pins": 4,
   "command_npm": 1,
-  "command_playch": 1
+  "command_playch": 1,
+  "command_hd": 2
 }
