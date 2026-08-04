@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 300,
+  "commandsExecuted": 303,
   "command_reactsw": 2,
   "command_self": 2,
   "command_ping": 16,
@@ -45,8 +45,8 @@
   "command_p": 1,
   "commandErrors": 10,
   "command_p2": 1,
-  "command_tt": 6,
-  "dailyResets": 10,
+  "command_tt": 8,
+  "dailyResets": 11,
   "command_nsfw": 1,
   "command_blowjob": 1,
   "command_gangbang": 1,
@@ -77,5 +77,6 @@
   "command_pins": 4,
   "command_npm": 1,
   "command_playch": 1,
-  "command_hd": 2
+  "command_hd": 2,
+  "command_toimg": 1
 }
