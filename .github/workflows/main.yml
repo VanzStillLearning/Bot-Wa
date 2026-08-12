@@ -3,7 +3,7 @@ name: RDP-BOT-WA-AUTO-LOOP
 on:
   workflow_dispatch:
   # push:
-  #   branches: [ main ] # Buka hashtag ini kalau mau otomatis jalan pas lu update file
+  #   branches: [ main ] # Buka hashtag ini kalau mau otomatis jalan pas update file
 
 concurrency:
   group: rdp-wa-loop
@@ -21,12 +21,14 @@ jobs:
       - name: "1. Checkout Repository"
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT_TOKEN }}
+          # Menggunakan GITHUB_TOKEN bawaan agar checkout tidak bermasalah
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
       - name: "2. Setup Node.js"
         uses: actions/setup-node@v4
         with:
-          node-version: '24'
+          node-version: '22'
 
       - name: "3. Cache Node Modules"
         uses: actions/cache@v4
@@ -38,7 +40,7 @@ jobs:
 
       - name: "4. Setup VPN Cloudflare WARP (Versi Ngebut)"
         run: |
-          echo "Install WARP via APT (Jauh lebih cepat dari Windows MSI)..."
+          echo "Install WARP via APT..."
           curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor --output /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
           echo "deb [signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
           
@@ -67,9 +69,6 @@ jobs:
 
       - name: "6. Run Bot (Auto-Restart & Limit 5 Jam)"
         run: |
-          # Ini versi Linux dari script PowerShell lu. 
-          # Bot jalan di depan (foreground) biar log/QR code kelihatan di tab Actions.
-          # Kalau crash, otomatis restart dalam 5 detik.
           timeout 5h bash -c '
             while true; do
               echo "Menjalankan Bot..."
@@ -97,9 +96,8 @@ jobs:
       - name: "8. Auto-Up (Trigger Siklus Berikutnya)"
         if: ${{ !cancelled() }}
         env:
-          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+          # Memakai PAT_TOKEN jika ada, jika tidak otomatis fallback ke GITHUB_TOKEN
+          GH_TOKEN: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
           echo "Memicu ulang workflow untuk 5 jam ke depan..."
-          # Command ini otomatis ngebaca nama file workflow lu yang lagi jalan
           gh workflow run "${{ github.workflow }}" --ref main
-          
