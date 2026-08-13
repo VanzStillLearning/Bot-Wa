@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 320,
+  "commandsExecuted": 321,
   "command_reactsw": 2,
   "command_self": 2,
   "command_ping": 17,
@@ -84,5 +84,6 @@
   "command_sholat": 1,
   "command_autosholat": 2,
   "command_ddos": 1,
-  "command_ddos7": 1
+  "command_ddos7": 1,
+  "command_menfess": 1
 }
