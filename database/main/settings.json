@@ -622,5 +622,6 @@
   "autobio_text": "",
   "autobio_status": false,
   "capprem": {},
-  "autoTyping": false
+  "autoTyping": false,
+  "antiCall": true
 }

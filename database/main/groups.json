@@ -1030,8 +1030,8 @@
         "name": "Van Store"
       },
       "62895385533890@s.whatsapp.net": {
-        "count": 164,
-        "lastChat": 1786609628038,
+        "count": 178,
+        "lastChat": 1786683504278,
         "name": "Van"
       }
     },
@@ -1046,6 +1046,7 @@
     "game": true,
     "rpg": true,
     "warnings": [],
-    "chat": {}
+    "chat": {},
+    "nsfw": false
   }
 }
