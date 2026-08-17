@@ -1,8 +1,8 @@
 {
-  "commandsExecuted": 337,
+  "commandsExecuted": 341,
   "command_reactsw": 2,
   "command_self": 2,
-  "command_ping": 19,
+  "command_ping": 21,
   "command_ccdl": 1,
   "command_brat": 3,
   "command_bratgojo": 1,
@@ -41,7 +41,7 @@
   "command_testspeed": 1,
   "command_ganticode": 6,
   "command_internetspeed": 2,
-  "command_is": 21,
+  "command_is": 22,
   "command_p": 1,
   "commandErrors": 10,
   "command_p2": 1,
@@ -91,5 +91,6 @@
   "command_opaianime": 2,
   "command_nsfwon": 1,
   "command_hentai": 1,
-  "command_nsfwoff": 1
+  "command_nsfwoff": 1,
+  "command_tiktoksearch": 1
 }
