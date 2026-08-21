@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 344,
+  "commandsExecuted": 345,
   "command_reactsw": 2,
   "command_self": 2,
   "command_ping": 22,
@@ -92,5 +92,6 @@
   "command_nsfwon": 1,
   "command_hentai": 1,
   "command_nsfwoff": 1,
-  "command_tiktoksearch": 1
+  "command_tiktoksearch": 1,
+  "command_tiktok": 1
 }
