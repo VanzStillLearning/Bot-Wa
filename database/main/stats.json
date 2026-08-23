@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 347,
+  "commandsExecuted": 348,
   "command_reactsw": 2,
   "command_self": 2,
   "command_ping": 22,
@@ -37,7 +37,7 @@
   "command_filmget": 1,
   "command_terabox": 4,
   "command_autoreadsw": 1,
-  "command_play": 12,
+  "command_play": 13,
   "command_testspeed": 1,
   "command_ganticode": 6,
   "command_internetspeed": 2,
