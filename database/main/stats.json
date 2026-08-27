@@ -1,8 +1,8 @@
 {
-  "commandsExecuted": 350,
+  "commandsExecuted": 353,
   "command_reactsw": 2,
   "command_self": 2,
-  "command_ping": 22,
+  "command_ping": 23,
   "command_ccdl": 1,
   "command_brat": 3,
   "command_bratgojo": 1,
@@ -93,5 +93,7 @@
   "command_hentai": 1,
   "command_nsfwoff": 1,
   "command_tiktoksearch": 1,
-  "command_tiktok": 1
+  "command_tiktok": 1,
+  "command_updatescraper": 1,
+  "command_updateplugin": 1
 }
