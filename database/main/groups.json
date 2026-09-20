@@ -1048,5 +1048,26 @@
     "warnings": [],
     "chat": {},
     "nsfw": false
+  },
+  "120363430564810701@g.us": {
+    "chatStats": {
+      "62895385533890@s.whatsapp.net": {
+        "count": 15,
+        "lastChat": 1789921766473,
+        "name": "Van"
+      }
+    },
+    "jid": "120363430564810701@g.us",
+    "name": "bot nya difan",
+    "welcome": false,
+    "leave": false,
+    "goodbye": false,
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "game": true,
+    "rpg": true,
+    "warnings": [],
+    "chat": {}
   }
 }

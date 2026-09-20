@@ -27,8 +27,12 @@
   "publicAdmin": false,
   "_lastEnergiDefault": 99999,
   "_lastEnergiPremium": 99999999,
-  "lastLimitReset": "2026-09-11T17:00:00.005Z",
-  "onlyThisGroup": null,
+  "lastLimitReset": "2026-09-20T17:00:00.009Z",
+  "onlyThisGroup": {
+    "jid": "120363430564810701@g.us",
+    "name": "bot nya difan",
+    "link": "https://chat.whatsapp.com/Hngyds4xWaiIkanpSDOzKK"
+  },
   "autoJpm": {
     "enabled": false,
     "intervalMs": 900000,
@@ -119,7 +123,9 @@
   "scheduledMessages": [],
   "pushAutoVcf": false,
   "selfGroups": [],
-  "ownerNames": {},
+  "ownerNames": {
+    "6289527495502": "@234715701334047"
+  },
   "publicGroups": [],
   "autoRead": true,
   "contacts": {
