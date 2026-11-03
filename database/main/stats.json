@@ -1,8 +1,8 @@
 {
-  "commandsExecuted": 392,
+  "commandsExecuted": 395,
   "command_reactsw": 2,
   "command_self": 2,
-  "command_ping": 25,
+  "command_ping": 26,
   "command_ccdl": 1,
   "command_brat": 3,
   "command_bratgojo": 1,
@@ -37,7 +37,7 @@
   "command_filmget": 1,
   "command_terabox": 4,
   "command_autoreadsw": 1,
-  "command_play": 13,
+  "command_play": 14,
   "command_testspeed": 1,
   "command_ganticode": 6,
   "command_internetspeed": 2,
@@ -98,5 +98,6 @@
   "command_updateplugin": 1,
   "command_onlythisgroup": 1,
   "command_addown": 1,
-  "command_manstrubation": 3
+  "command_manstrubation": 3,
+  "command_ping2": 1
 }
